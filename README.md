@@ -2,22 +2,6 @@ Pomodoro Clock
 
 A simple Pomodoro clock web app made using HTML, CSS, and JavaScript. The Pomodoro Technique is a time management method that uses a timer to break work into intervals, traditionally 25 minutes in length, separated by short breaks.
 
-Table of Contents
-
-Features
-
-Demo
-
-Installation
-
-Usage
-
-Technologies
-
-Contributing
-
-License
-
 Features
 
 Pomodoro Timer: 25-minute focus sessions.
